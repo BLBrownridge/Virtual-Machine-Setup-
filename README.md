@@ -1,3 +1,6 @@
+<h1>Setting Up Your Virtual Machine</h1>
+<h2>In this demonstartion I'll be using Oracle VirtualBox but your virtual machine environment may vary in the initial setup.</h2>
+                                                                                                                      
 
 
 1. First let's download the [64-bit Windows Server 2019 ISO](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019) 
